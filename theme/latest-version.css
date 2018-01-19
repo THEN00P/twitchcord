@@ -12300,6 +12300,10 @@ div#bd-customcss-detach-container::before {
     background: var(--chat-color);
 }
 
+.app-XZYfmp > div {
+    background: var(--chat-color);
+}
+
 .problemsText-3RO4MF,
 .contentBase-2lvI5t {
     color: var(--dark-text-tint);
