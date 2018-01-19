@@ -12295,13 +12295,15 @@ div#bd-customcss-detach-container::before {
     height: 65px;
     padding: 0;
 }
-
+.loading-wNT9ra {
+    background: var(--chat-color);
+}
 .container-2oOGIt {
     background: var(--chat-color);
 }
 
 .app-XZYfmp > div {
-    background: var(--chat-color);
+    background: var(--chat-color) !important;
 }
 
 .problemsText-3RO4MF,
